@@ -8,3 +8,6 @@ This is a Python-based calculator made using Tkinter. It performs basic and scie
 
 # 3) TickTask
 TickTask is a simple Python-based desktop tool made using the Tkinter library. It allows users to add tasks with a countdown timer (e.g., “5m” or “1h 20m”). When the timer ends, it asks whether the task is completed and marks it with ✅ or ❌. It's easy to use and helps in managing time and staying focused.
+
+# 4) Password Generator
+This is a simple password generator app made using Python and Tkinter. It lets users create strong passwords by choosing the length and types of characters like letters, numbers, and symbols. The app shows how strong the password is and allows users to copy or save it. It also keeps a list of previously created passwords with the date.
